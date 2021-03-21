@@ -1,0 +1,13 @@
+List Of Libraries for Expo And Node Npm (Dependencies):
+
+npm install react-native
+npm install react-navigation
+npm install react-navigation-native
+npm install react-navigation-tabs
+npm install react-native-gesture-handler
+npm install react-native-screens
+npm install react-native-reanimated
+npm install firebase
+npm install expo-cli --global
+npm install -g expo-cli
+
